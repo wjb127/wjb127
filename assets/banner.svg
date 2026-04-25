@@ -1,0 +1,29 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">wjb127 GitHub profile banner</title>
+  <desc id="desc">AI workflow tools, fast MVPs, and launch-ready products.</desc>
+  <rect width="1280" height="360" rx="28" fill="#0B1020"/>
+  <path d="M0 270C146 222 238 309 380 255C522 201 622 103 786 152C950 201 1034 271 1280 204V360H0V270Z" fill="#102B3F"/>
+  <path d="M0 84C152 120 262 58 403 86C544 114 594 210 750 199C906 188 984 82 1280 118" stroke="#2DD4BF" stroke-width="2" opacity=".45"/>
+  <path d="M0 119C176 154 271 93 421 123C571 153 635 241 779 230C923 219 1015 121 1280 147" stroke="#60A5FA" stroke-width="2" opacity=".35"/>
+  <g opacity=".86">
+    <circle cx="1004" cy="83" r="4" fill="#FACC15"/>
+    <circle cx="1070" cy="126" r="3" fill="#A78BFA"/>
+    <circle cx="1136" cy="91" r="5" fill="#2DD4BF"/>
+    <circle cx="1187" cy="150" r="3" fill="#F97316"/>
+    <circle cx="927" cy="146" r="3" fill="#60A5FA"/>
+  </g>
+  <g transform="translate(88 72)">
+    <rect x="0" y="0" width="78" height="78" rx="18" fill="#111827" stroke="#334155"/>
+    <path d="M23 42L35 54L57 26" stroke="#2DD4BF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="88" y="190" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="68" font-weight="800">wjb127</text>
+  <text x="90" y="238" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="28" font-weight="600">AI workflow tools · fast MVPs · web/mobile products</text>
+  <g transform="translate(90 274)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="700">
+    <rect x="0" y="0" width="132" height="40" rx="20" fill="#172554" stroke="#2563EB"/>
+    <text x="24" y="26" fill="#DBEAFE">TypeScript</text>
+    <rect x="148" y="0" width="102" height="40" rx="20" fill="#064E3B" stroke="#10B981"/>
+    <text x="176" y="26" fill="#D1FAE5">AI Tools</text>
+    <rect x="266" y="0" width="128" height="40" rx="20" fill="#3B1D0A" stroke="#F97316"/>
+    <text x="291" y="26" fill="#FED7AA">MVP Labs</text>
+  </g>
+</svg>
