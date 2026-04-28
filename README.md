@@ -19,7 +19,7 @@
 ## Highlights
 
 <!-- HIGHLIGHTS:START -->
-### [codex-image](https://github.com/wjb127/codex-image) ⭐ 28
+### [codex-image](https://github.com/wjb127/codex-image) ⭐ 29
 Claude Code skill for AI image generation via Codex CLI OAuth. No API key needed.
 
 ### [claude-smart-clear](https://github.com/wjb127/claude-smart-clear) ⭐ 0
@@ -37,7 +37,7 @@ Mobile-first weight tracking app built with Next.js, Supabase, charts, and calen
 ### [sysmon-gui](https://github.com/wjb127/sysmon-gui) ⭐ 0
 macOS system monitor desktop app built with Tauri, React, and TypeScript.
 
-⭐ Star counts update daily via GitHub Actions · last sync: `2026-04-27`
+⭐ Star counts update daily via GitHub Actions · last sync: `2026-04-28`
 <!-- HIGHLIGHTS:END -->
 
 ## Build Stack
