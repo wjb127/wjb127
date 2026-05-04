@@ -37,7 +37,7 @@ Mobile-first weight tracking app built with Next.js, Supabase, charts, and calen
 ### [sysmon-gui](https://github.com/wjb127/sysmon-gui) ⭐ 0
 macOS system monitor desktop app built with Tauri, React, and TypeScript.
 
-⭐ Star counts update daily via GitHub Actions · last sync: `2026-05-03`
+⭐ Star counts update daily via GitHub Actions · last sync: `2026-05-04`
 <!-- HIGHLIGHTS:END -->
 
 ## Build Stack
