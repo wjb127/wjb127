@@ -60,13 +60,6 @@ macOS system monitor desktop app built with Tauri, React, and TypeScript.
 | Web/mobile apps | [`nextjs-weight-calendar`](https://github.com/wjb127/nextjs-weight-calendar), [`worktimer-expo`](https://github.com/wjb127/worktimer-expo), [`ss-011-text-memory-quiz`](https://github.com/wjb127/ss-011-text-memory-quiz) |
 | Design practice | [`refactoring-ui-practice`](https://github.com/wjb127/refactoring-ui-practice), [`nexora-ai-landing`](https://github.com/wjb127/nexora-ai-landing), [`km-59-law-landing-homepage-renewal`](https://github.com/wjb127/km-59-law-landing-homepage-renewal) |
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wjb127&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="wjb127 GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjb127&layout=compact&theme=github_dark&hide_border=true&hide=html,css" alt="wjb127 top languages" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/wjb127/wjb127/output/github-snake-dark.svg" alt="GitHub contribution snake" />
 </p>
