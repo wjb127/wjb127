@@ -53,7 +53,7 @@ Claude Code skill for AI image generation via Codex CLI OAuth. No API key needed
 
 | Area | Repos |
 | --- | --- |
-| AI workflow tools | [`codex-image`](https://github.com/wjb127/codex-image), [`claude-smart-clear`](https://github.com/wjb127/claude-smart-clear), [`local-gemma-agent`](https://github.com/wjb127/local-gemma-agent) |
-| MVP experiments | [`one-min-startup-kit`](https://github.com/wjb127/one-min-startup-kit), [`landing-template-kr`](https://github.com/wjb127/landing-template-kr), [`webapp-landing-maker`](https://github.com/wjb127/webapp-landing-maker) |
-| Web/mobile apps | [`nextjs-weight-calendar`](https://github.com/wjb127/nextjs-weight-calendar), [`worktimer-expo`](https://github.com/wjb127/worktimer-expo), [`ss-011-text-memory-quiz`](https://github.com/wjb127/ss-011-text-memory-quiz) |
-| Design practice | [`refactoring-ui-practice`](https://github.com/wjb127/refactoring-ui-practice), [`nexora-ai-landing`](https://github.com/wjb127/nexora-ai-landing), [`km-59-law-landing-homepage-renewal`](https://github.com/wjb127/km-59-law-landing-homepage-renewal) |
+| Claude Code skills | [`codex-image`](https://github.com/wjb127/codex-image), [`claude-mem`](https://github.com/wjb127/claude-mem), [`agy-image`](https://github.com/wjb127/agy-image), [`agy-review`](https://github.com/wjb127/agy-review), [`consulting-report`](https://github.com/wjb127/consulting-report) |
+| Testing &amp; QA skills | [`claude-skill-web-testing`](https://github.com/wjb127/claude-skill-web-testing), [`claude-skill-pixel-verification`](https://github.com/wjb127/claude-skill-pixel-verification), [`claude-smart-clear`](https://github.com/wjb127/claude-smart-clear) |
+| Infrastructure labs | [`ss-044-live-stream-platform-lab`](https://github.com/wjb127/ss-044-live-stream-platform-lab), [`ss-038-edge-cms-lab`](https://github.com/wjb127/ss-038-edge-cms-lab), [`ss-035-cms-perf-lab`](https://github.com/wjb127/ss-035-cms-perf-lab) |
+| Products | [`worktimer-expo`](https://github.com/wjb127/worktimer-expo), [`sysmon-gui`](https://github.com/wjb127/sysmon-gui), [`nextjs-weight-calendar`](https://github.com/wjb127/nextjs-weight-calendar) |
