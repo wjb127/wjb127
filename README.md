@@ -57,7 +57,3 @@ Claude Code skill for AI image generation via Codex CLI OAuth. No API key needed
 | MVP experiments | [`one-min-startup-kit`](https://github.com/wjb127/one-min-startup-kit), [`landing-template-kr`](https://github.com/wjb127/landing-template-kr), [`webapp-landing-maker`](https://github.com/wjb127/webapp-landing-maker) |
 | Web/mobile apps | [`nextjs-weight-calendar`](https://github.com/wjb127/nextjs-weight-calendar), [`worktimer-expo`](https://github.com/wjb127/worktimer-expo), [`ss-011-text-memory-quiz`](https://github.com/wjb127/ss-011-text-memory-quiz) |
 | Design practice | [`refactoring-ui-practice`](https://github.com/wjb127/refactoring-ui-practice), [`nexora-ai-landing`](https://github.com/wjb127/nexora-ai-landing), [`km-59-law-landing-homepage-renewal`](https://github.com/wjb127/km-59-law-landing-homepage-renewal) |
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wjb127/wjb127/output/github-snake-dark.svg" alt="GitHub contribution snake" />
-</p>
