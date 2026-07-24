@@ -1,11 +1,22 @@
 import { readFile, writeFile } from "node:fs/promises";
 
 const username = "wjb127";
+// 큐레이션 목록. 렌더 순서는 여기 순서가 아니라 스타순 자동 정렬(아래) — 스타 많은 게 항상 위로.
 const repos = [
   {
     name: "codex-image",
     description:
       "Claude Code skill for AI image generation via Codex CLI OAuth. No API key needed.",
+  },
+  {
+    name: "claude-mem",
+    description:
+      "Per-project external memory for Claude Code. 8KB markdown chapters, recall by keyword to save context window.",
+  },
+  {
+    name: "agy-image",
+    description:
+      "Claude Code skill for AI image generation via Antigravity CLI (Gemini). Google OAuth, no API key.",
   },
   {
     name: "claude-smart-clear",
@@ -64,13 +75,29 @@ const rows = await Promise.all(
   })),
 );
 
+// 스타 내림차순 정렬 → 1위는 히어로로 크게, 나머지는 접어서(details) 노출.
+// ⭐ 0 은 아예 렌더하지 않는다 (0을 보여줄 이유가 없고, 대표작 광채만 깎아먹음).
+const sorted = [...rows].sort((a, b) => b.stars - a.stars);
+const star = (n) => (n > 0 ? ` ⭐ ${n}` : "");
+const link = (repo) => `[${repo.name}](https://github.com/${username}/${repo.name})`;
+
+const [hero, ...rest] = sorted;
+const heroBlock = `### ${link(hero)}${star(hero.stars)}
+${hero.description}`;
+
+const restBlock = rest.length
+  ? `
+
+<details>
+<summary><b>More projects</b> (${rest.length})</summary>
+
+${rest.map((repo) => `- **${link(repo)}**${star(repo.stars)} — ${repo.description}`).join("\n")}
+
+</details>`
+  : "";
+
 const today = new Date().toISOString().slice(0, 10);
-const block = `${rows
-  .map(
-    (repo) => `### [${repo.name}](https://github.com/${username}/${repo.name}) ⭐ ${repo.stars}
-${repo.description}`,
-  )
-  .join("\n\n")}
+const block = `${heroBlock}${restBlock}
 
 ⭐ Star counts update daily via GitHub Actions · last sync: \`${today}\``;
 

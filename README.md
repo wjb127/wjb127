@@ -22,20 +22,18 @@
 ### [codex-image](https://github.com/wjb127/codex-image) ⭐ 46
 Claude Code skill for AI image generation via Codex CLI OAuth. No API key needed.
 
-### [claude-smart-clear](https://github.com/wjb127/claude-smart-clear) ⭐ 0
-Save recent Claude Code context, run `/clear`, and restore the session without losing the thread.
+<details>
+<summary><b>More projects</b> (7)</summary>
 
-### [local-gemma-agent](https://github.com/wjb127/local-gemma-agent) ⭐ 0
-Local AI agent example powered by Ollama and Gemma, designed to run without external API keys.
+- **[claude-mem](https://github.com/wjb127/claude-mem)** ⭐ 4 — Per-project external memory for Claude Code. 8KB markdown chapters, recall by keyword to save context window.
+- **[agy-image](https://github.com/wjb127/agy-image)** ⭐ 1 — Claude Code skill for AI image generation via Antigravity CLI (Gemini). Google OAuth, no API key.
+- **[claude-smart-clear](https://github.com/wjb127/claude-smart-clear)** — Save recent Claude Code context, run `/clear`, and restore the session without losing the thread.
+- **[local-gemma-agent](https://github.com/wjb127/local-gemma-agent)** — Local AI agent example powered by Ollama and Gemma, designed to run without external API keys.
+- **[one-min-startup-kit](https://github.com/wjb127/one-min-startup-kit)** — AI-assisted MVP testing kit with landing page generation, fake checkout, lead capture, and analytics.
+- **[nextjs-weight-calendar](https://github.com/wjb127/nextjs-weight-calendar)** — Mobile-first weight tracking app built with Next.js, Supabase, charts, and calendar UX.
+- **[sysmon-gui](https://github.com/wjb127/sysmon-gui)** — macOS system monitor desktop app built with Tauri, React, and TypeScript.
 
-### [one-min-startup-kit](https://github.com/wjb127/one-min-startup-kit) ⭐ 0
-AI-assisted MVP testing kit with landing page generation, fake checkout, lead capture, and analytics.
-
-### [nextjs-weight-calendar](https://github.com/wjb127/nextjs-weight-calendar) ⭐ 0
-Mobile-first weight tracking app built with Next.js, Supabase, charts, and calendar UX.
-
-### [sysmon-gui](https://github.com/wjb127/sysmon-gui) ⭐ 0
-macOS system monitor desktop app built with Tauri, React, and TypeScript.
+</details>
 
 ⭐ Star counts update daily via GitHub Actions · last sync: `2026-07-24`
 <!-- HIGHLIGHTS:END -->
