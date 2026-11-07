@@ -35,7 +35,7 @@ Claude Code skill for AI image generation via Codex CLI OAuth. No API key needed
 
 </details>
 
-⭐ Star counts update daily via GitHub Actions · last sync: `2026-11-06`
+⭐ Star counts update daily via GitHub Actions · last sync: `2026-11-07`
 <!-- HIGHLIGHTS:END -->
 
 ## Build Stack
