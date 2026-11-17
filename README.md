@@ -19,7 +19,7 @@
 ## Highlights
 
 <!-- HIGHLIGHTS:START -->
-### [codex-image](https://github.com/wjb127/codex-image) ⭐ 66
+### [codex-image](https://github.com/wjb127/codex-image) ⭐ 68
 Claude Code skill for AI image generation via Codex CLI OAuth. No API key needed.
 
 <details>
@@ -35,7 +35,7 @@ Claude Code skill for AI image generation via Codex CLI OAuth. No API key needed
 
 </details>
 
-⭐ Star counts update daily via GitHub Actions · last sync: `2026-11-15`
+⭐ Star counts update daily via GitHub Actions · last sync: `2026-11-17`
 <!-- HIGHLIGHTS:END -->
 
 ## Build Stack
